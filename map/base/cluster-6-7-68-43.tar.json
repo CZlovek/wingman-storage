@@ -1,0 +1,56 @@
+{
+  "asset": "d:\\_Projects\\VisualStudio\\Freeway\\_shared-content\\data\\source\\.local\\637936715767611675d:\\_Projects\\VisualStudio\\Freeway\\_wingman-content\\github\\map\\base\\cluster-6-7-68-43.tar.tar",
+  "content": [
+    {
+      "asset": "",
+      "checksum": "40a624aa325de7511b51a0f839676114e5b7645ab86bbd0aca5595f44981139e",
+      "length": 44600,
+      "name": "tile-9-274-172.png"
+    },
+    {
+      "asset": "",
+      "checksum": "ae087a51306bfd976d229a9458325ef0037d9081b33f229112578af22b1c48ec",
+      "length": 45625,
+      "name": "tile-9-274-173.png"
+    },
+    {
+      "asset": "",
+      "checksum": "10e4c768f8fda74a579ea068cff606990252b4a6d8b3cebc009229c4c965f166",
+      "length": 44283,
+      "name": "tile-9-274-174.png"
+    },
+    {
+      "asset": "",
+      "checksum": "8386d271cb374b68c46a4bcf2fedd7d12c075e332b56e925e275fc38ec1ccbfe",
+      "length": 47656,
+      "name": "tile-9-274-175.png"
+    },
+    {
+      "asset": "",
+      "checksum": "5edbca0bef04dd62d10f669a0b66fa682cd74e5ea136c509e40fc3aa57026e31",
+      "length": 40138,
+      "name": "tile-9-275-172.png"
+    },
+    {
+      "asset": "",
+      "checksum": "3d79217534d7fc53c907b10385367c5184cf49b0ef57abb021335e3788057d09",
+      "length": 43239,
+      "name": "tile-9-275-173.png"
+    },
+    {
+      "asset": "",
+      "checksum": "acd462154d60d0e2e3af33994eaeb628f4539442d68b24c7c966270569e5125f",
+      "length": 44785,
+      "name": "tile-9-275-174.png"
+    },
+    {
+      "asset": "",
+      "checksum": "d39f37cf3705eb3145c36330f40cb1515de7fcb7d290d67faba8668b8f8eed02",
+      "length": 46070,
+      "name": "tile-9-275-175.png"
+    }
+  ],
+  "checksum": "84d7a0d3d7bf21d5710e6593d125b384ae4d819fbd0b6c0485b69f05bacb6093",
+  "length": 356396,
+  "name": "PKG"
+}
