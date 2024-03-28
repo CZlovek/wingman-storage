@@ -1,0 +1,488 @@
+{
+  "asset": "/content/shared-content/source/content/wingman-storage/map/base/cluster-1-7-70-44.tar.tar",
+  "content": [
+    {
+      "asset": "",
+      "checksum": "8d1f1af9b91638ebd39f3588be02b6a30900819af55f7bbe786fd56836b89d6a",
+      "length": 19697,
+      "name": "tile-10-565-352.png"
+    },
+    {
+      "asset": "",
+      "checksum": "cccef9699495b352daf74b637a5d6ec8e96617b31911f957bb783c27b5206e0a",
+      "length": 39852,
+      "name": "tile-11-1120-708.png"
+    },
+    {
+      "asset": "",
+      "checksum": "bb3d58782899dc104462b1c7b564c2328427b64e0d70b73f3205d70d56b24d7e",
+      "length": 59385,
+      "name": "tile-11-1120-710.png"
+    },
+    {
+      "asset": "",
+      "checksum": "92c7d5562e8aa95a5ba5146e9cb3e5b06ea26ace962b2aa2d722f774d1af81b3",
+      "length": 107193,
+      "name": "tile-10-562-352.png"
+    },
+    {
+      "asset": "",
+      "checksum": "9f13090fcd5566f9cdf04523302cbaf22c25bf32288545cc231794dc3b9f5b68",
+      "length": 23414,
+      "name": "tile-10-562-354.png"
+    },
+    {
+      "asset": "",
+      "checksum": "81bc0aeb11d74412d00b7495b7ee05e11f49174aca709f3debd40ace80377c7f",
+      "length": 76565,
+      "name": "tile-10-560-354.png"
+    },
+    {
+      "asset": "",
+      "checksum": "c55306bbcf289e45f3709118721bd6f7a35142dba108c222bc43d7df0247eff4",
+      "length": 61622,
+      "name": "tile-11-1124-706.png"
+    },
+    {
+      "asset": "",
+      "checksum": "c52204d25d13adb00ba42e3828d0d10b3bed5a30d2fc23c14debf268b5e9ac19",
+      "length": 7036,
+      "name": "tile-11-1124-709.png"
+    },
+    {
+      "asset": "",
+      "checksum": "d5bb62d48cb8188c66ddb13b8c75032d996b8d0df32191211bc09cba4cccd093",
+      "length": 24071,
+      "name": "tile-11-1129-705.png"
+    },
+    {
+      "asset": "",
+      "checksum": "ff7192efba2bb23f073e771e80761b2e13f0d0ca8c83567195eb7cdbadb76e67",
+      "length": 30960,
+      "name": "tile-11-1123-708.png"
+    },
+    {
+      "asset": "",
+      "checksum": "f3ef29d362cff2c932ad79531e022eedc9527bccaa4dc6e6f89000ccbcfc0259",
+      "length": 8692,
+      "name": "tile-8-141-88.png"
+    },
+    {
+      "asset": "",
+      "checksum": "8d3cbec0571794d5e740b2c34062e6647616a348da4b651f0fa3cae3c6a14a7a",
+      "length": 5165,
+      "name": "tile-11-1127-707.png"
+    },
+    {
+      "asset": "",
+      "checksum": "52442ed1a83033fa94732f248e9ed7b806c50ebd844185ab91003f708b363ed5",
+      "length": 75414,
+      "name": "tile-11-1126-705.png"
+    },
+    {
+      "asset": "",
+      "checksum": "5bb254e505311228e26081af7f4fa88c6e25288e6b74c41aa7071f61dc559f96",
+      "length": 73217,
+      "name": "tile-10-561-353.png"
+    },
+    {
+      "asset": "",
+      "checksum": "79ec8efdb87b0c0c183374ed39b6801ef6f02f00d2b6079341f9a0361e6deb06",
+      "length": 67676,
+      "name": "tile-11-1125-705.png"
+    },
+    {
+      "asset": "",
+      "checksum": "eefcb8112983e3a59b8683e572f4d55ce0028e46661779598e0ec1018262355b",
+      "length": 61324,
+      "name": "tile-11-1123-706.png"
+    },
+    {
+      "asset": "",
+      "checksum": "79baf1328bbe809f30098d166677a9251f015f9c8916f038106db48be8ca3037",
+      "length": 63541,
+      "name": "tile-10-561-354.png"
+    },
+    {
+      "asset": "",
+      "checksum": "b5ea9dc2808cdb4eae7c82bd458e8eb05260f78d29f49f31ba09a5cb3bfeae6e",
+      "length": 50617,
+      "name": "tile-11-1122-708.png"
+    },
+    {
+      "asset": "",
+      "checksum": "6d3d6c5266c1e7d505f2527d6e6bf73f265ba7fe5425811e69522c6fe171412c",
+      "length": 7612,
+      "name": "tile-11-1128-706.png"
+    },
+    {
+      "asset": "",
+      "checksum": "d2e14ae3f59bb2ec99e9d1a43bb94dba3b0cd6637ebfc80309586d8bd60b824f",
+      "length": 79138,
+      "name": "tile-9-280-176.png"
+    },
+    {
+      "asset": "",
+      "checksum": "d54a7633d0d09c472b61f7df8fd2ce81f4d564ec5445a0ecc33b717f9ecb81cf",
+      "length": 34341,
+      "name": "tile-11-1124-708.png"
+    },
+    {
+      "asset": "",
+      "checksum": "3f24529b66dab60c88ce260fecea8ef9e2bd7ddd2f5fba9a312d2eafb4514365",
+      "length": 57823,
+      "name": "tile-11-1126-706.png"
+    },
+    {
+      "asset": "",
+      "checksum": "764696500438f61c24d5080d3f912def5ee44036fb7bcd796c389d5933db3b56",
+      "length": 59660,
+      "name": "tile-11-1123-704.png"
+    },
+    {
+      "asset": "",
+      "checksum": "393c4c7a8668fab9bf4aedeb96bc9d6a6d4c4ebadddc7df12945fdbbd1a52b92",
+      "length": 52154,
+      "name": "tile-10-563-353.png"
+    },
+    {
+      "asset": "",
+      "checksum": "c9c552db5534383155b5968e936c2e816e30d2757528b49d94428fe52c965b0e",
+      "length": 24692,
+      "name": "tile-11-1123-709.png"
+    },
+    {
+      "asset": "",
+      "checksum": "574c12a3c002c4b5496a3719e8e04c04bd25629d7736d00d58c21ac60e01a461",
+      "length": 32324,
+      "name": "tile-11-1121-706.png"
+    },
+    {
+      "asset": "",
+      "checksum": "5ad86e77a80b152e11662245e096cc6d13f54f735e8352dc9f31edea2d54ffcb",
+      "length": 53571,
+      "name": "tile-11-1120-706.png"
+    },
+    {
+      "asset": "",
+      "checksum": "6d8e016a63b032f2fb1c2f0c8cf44a9b634ec3a1c0bd3d056d03941b389d690f",
+      "length": 36322,
+      "name": "tile-9-282-176.png"
+    },
+    {
+      "asset": "",
+      "checksum": "127f3d6ae9c8cc3f3530af2e477aa217476438c7ea4ea7d998841711bed9e6e3",
+      "length": 47846,
+      "name": "tile-11-1120-705.png"
+    },
+    {
+      "asset": "",
+      "checksum": "d9b07b2fd349e4b8b4b1dab0c14f8533ae0ebf2014087ffcf8d6dff59cdc4583",
+      "length": 58465,
+      "name": "tile-11-1123-707.png"
+    },
+    {
+      "asset": "",
+      "checksum": "4f82370ea90780bb2cd88e29066a7817f5d72f9b20ac5156910a8d119d9e633f",
+      "length": 53384,
+      "name": "tile-11-1122-707.png"
+    },
+    {
+      "asset": "",
+      "checksum": "bc85708b839795b406976de183775b312892614780016252c174240f68249372",
+      "length": 53938,
+      "name": "tile-10-560-353.png"
+    },
+    {
+      "asset": "",
+      "checksum": "722aef2843584835a225c82e11ae57c71c24a7fb8eff5d9e88bd28d84a01b15c",
+      "length": 34486,
+      "name": "tile-11-1121-705.png"
+    },
+    {
+      "asset": "",
+      "checksum": "e3fde933c1d5b25b82decace44d8254c834826c042a42b3e086d5adb04015e91",
+      "length": 71725,
+      "name": "tile-10-560-352.png"
+    },
+    {
+      "asset": "",
+      "checksum": "419eb351d80017a17aef8576f0d820f59dd633822a2edde19876ec50d97c2ed5",
+      "length": 54700,
+      "name": "tile-11-1122-705.png"
+    },
+    {
+      "asset": "",
+      "checksum": "8662ff9d3a8de14dd6ea6eee6bf45c90b4a3bd91226e9d3840b43d884ea86e63",
+      "length": 23411,
+      "name": "tile-11-1125-708.png"
+    },
+    {
+      "asset": "",
+      "checksum": "c17f22ce0d25cb3a39a2d76fb5103c8c4d1cb812dddec01bdca07e7071163afd",
+      "length": 111117,
+      "name": "tile-10-563-352.png"
+    },
+    {
+      "asset": "",
+      "checksum": "5c211ea86b53dfa3d85e7d7aab9e24308b67097da24291750e94416d5ae5eae5",
+      "length": 65638,
+      "name": "tile-11-1125-707.png"
+    },
+    {
+      "asset": "",
+      "checksum": "6ecf6e5be444efbb7f9e2f6db81afb7f5ce829efe014edda4a501d67fbb27fee",
+      "length": 21133,
+      "name": "tile-11-1126-707.png"
+    },
+    {
+      "asset": "",
+      "checksum": "ec45d6a5bc53daa009305d771cd10ec12f772ccb21034aef6c9f1ab8a8412b31",
+      "length": 80637,
+      "name": "tile-10-562-353.png"
+    },
+    {
+      "asset": "",
+      "checksum": "b9f47ba30bc76d8aceecbf683c7ddcdc4c8741367bb15a69a54d53e0549c5bd0",
+      "length": 40176,
+      "name": "tile-11-1122-704.png"
+    },
+    {
+      "asset": "",
+      "checksum": "302b67e63898dc3253a4c3bd26103896f6ae080178bdf733da177b58f1ea1430",
+      "length": 9786,
+      "name": "tile-9-281-177.png"
+    },
+    {
+      "asset": "",
+      "checksum": "c6c43292fca9ec501006ce592e33db6fce814bddfd9df34679b1cf146403bb0f",
+      "length": 71715,
+      "name": "tile-11-1126-704.png"
+    },
+    {
+      "asset": "",
+      "checksum": "f5c30041ee94be0bf7de2234457b6426ca0fcd88b97fecc3034479cb04e081e5",
+      "length": 48753,
+      "name": "tile-11-1121-704.png"
+    },
+    {
+      "asset": "",
+      "checksum": "5780d64f0771e232246d44cc223090615122eba92a4deb0298110fd1be8e2c62",
+      "length": 62532,
+      "name": "tile-11-1125-706.png"
+    },
+    {
+      "asset": "",
+      "checksum": "2a5a1f1a4827c839f32fd780264659777ace9a8bb4c287f631644a499d066f5a",
+      "length": 7751,
+      "name": "tile-11-1123-710.png"
+    },
+    {
+      "asset": "",
+      "checksum": "a1ae3588eac553f0b0bbf14655a85bbcbd1b1ed4cccbadff0a508cf7fcc28ed2",
+      "length": 4384,
+      "name": "tile-11-1131-704.png"
+    },
+    {
+      "asset": "",
+      "checksum": "96ab87830735c640971dc09acb5603636db91daebcefaf5683b3ea047b6cebf8",
+      "length": 51196,
+      "name": "tile-11-1121-709.png"
+    },
+    {
+      "asset": "",
+      "checksum": "3978358477ec84ce5124318c7e549543909758588bce3ee0ba2dae777c66cf23",
+      "length": 46555,
+      "name": "tile-11-1130-704.png"
+    },
+    {
+      "asset": "",
+      "checksum": "4c4ae6e04d1846922ed266c9bcd2fb9d019f401f99809878349a79f3e76ded7b",
+      "length": 76659,
+      "name": "tile-11-1123-705.png"
+    },
+    {
+      "asset": "",
+      "checksum": "c0d22c28f9998ed33c5632d6829e935ad34ec8e2d0652a034f69a2c860aeb7ac",
+      "length": 77468,
+      "name": "tile-11-1124-704.png"
+    },
+    {
+      "asset": "",
+      "checksum": "3ce4becfe13336a20a1d5e0b3731ac37926b8bc802d304b5bd6ddfcf9a6056df",
+      "length": 20481,
+      "name": "tile-11-1121-711.png"
+    },
+    {
+      "asset": "",
+      "checksum": "61c0c7ff58e39afa99b948280e12a918926781640199392349a9115a178e364e",
+      "length": 105093,
+      "name": "tile-10-564-352.png"
+    },
+    {
+      "asset": "",
+      "checksum": "70048b0ed6ba08b74040bc91036ecd180dfd341c6788960aedc6dfb928f33b6c",
+      "length": 85470,
+      "name": "tile-11-1127-704.png"
+    },
+    {
+      "asset": "",
+      "checksum": "73d13716454d9f6288d819cd2537b0e296e87225226078117253d4d72dadc2d5",
+      "length": 11882,
+      "name": "tile-10-564-353.png"
+    },
+    {
+      "asset": "",
+      "checksum": "0541122b3e0774b609d122fdebf6cb666348739fb518157cc245c8e4f34ff066",
+      "length": 68748,
+      "name": "tile-11-1121-710.png"
+    },
+    {
+      "asset": "",
+      "checksum": "cb7e6cab382df970280c2e8072f13f1e863e66d033215e9d873ec2a4c9315247",
+      "length": 84509,
+      "name": "tile-11-1129-704.png"
+    },
+    {
+      "asset": "",
+      "checksum": "ce7bf6c4f6106d6256b60ad297d7dab37b71547d46aa4379fb93522a484cbbf3",
+      "length": 27083,
+      "name": "tile-8-140-88.png"
+    },
+    {
+      "asset": "",
+      "checksum": "3ffab36a9565ab7d9150368b1965dad39827f30353310069dbe198ae2587071b",
+      "length": 35490,
+      "name": "tile-11-1122-710.png"
+    },
+    {
+      "asset": "",
+      "checksum": "6f644dd968db56ffcc4b1f47f446420337e2ca74a4ba442b3576fbf6d9633b85",
+      "length": 56332,
+      "name": "tile-11-1120-709.png"
+    },
+    {
+      "asset": "",
+      "checksum": "ce416a6d00ec98670c1045754c305bcf6861d5a470cbe2d5c23f86558343c835",
+      "length": 10323,
+      "name": "tile-7-70-44.png"
+    },
+    {
+      "asset": "",
+      "checksum": "03cddb90d5df0f32c262f975591c30d95661b5c37ede618c12f92f028e85f5ba",
+      "length": 57370,
+      "name": "tile-11-1127-705.png"
+    },
+    {
+      "asset": "",
+      "checksum": "291ea7907cebbaebe905059ae246182fbc29a62c38254a6c8d38dbf18a5bacd4",
+      "length": 34412,
+      "name": "tile-11-1120-711.png"
+    },
+    {
+      "asset": "",
+      "checksum": "06212b4add5b86b9a6a65db0ca7c8417bba2db348a0a62fc3f55e5705a7a42f7",
+      "length": 25451,
+      "name": "tile-11-1121-707.png"
+    },
+    {
+      "asset": "",
+      "checksum": "208924bc364b86b4115ff2eb748f368a89db4196cf42601742384c88c521e421",
+      "length": 94444,
+      "name": "tile-11-1128-704.png"
+    },
+    {
+      "asset": "",
+      "checksum": "23d3d1eed9a36ede72fd5c408c242b1a83e04a3ef788a4765a8fa5fc90cddc91",
+      "length": 46780,
+      "name": "tile-11-1122-709.png"
+    },
+    {
+      "asset": "",
+      "checksum": "8f0c3da32cd2c77dd997225b0cf63cb7a93a15ffc0813bc6fa6d4b3cc8abd5cc",
+      "length": 73046,
+      "name": "tile-11-1125-704.png"
+    },
+    {
+      "asset": "",
+      "checksum": "b7dc4b713f2723d4a7d61b6f103e6644cf10b963272f32913f9f2499adb3016d",
+      "length": 30863,
+      "name": "tile-11-1122-706.png"
+    },
+    {
+      "asset": "",
+      "checksum": "cdafee57bb0c3de71ac60f6d14361d31c8a4cb203aa3d85a9199ecf73ce9c93c",
+      "length": 76157,
+      "name": "tile-11-1128-705.png"
+    },
+    {
+      "asset": "",
+      "checksum": "fdfe50e66466854be48c178e3485752be71217f2660935f8f6b80e063fa66f89",
+      "length": 14179,
+      "name": "tile-10-561-355.png"
+    },
+    {
+      "asset": "",
+      "checksum": "37adc60408b5dd61d9c8c9aa67b31bba189bd2407b17dc1275aac289933f41bc",
+      "length": 70261,
+      "name": "tile-11-1124-705.png"
+    },
+    {
+      "asset": "",
+      "checksum": "ef49555f3e212ad4cd873fa4d8835e2a31e1202b6384950e75213097f17e0085",
+      "length": 94444,
+      "name": "tile-9-281-176.png"
+    },
+    {
+      "asset": "",
+      "checksum": "881a36063528e7cd3c5d39abf9316291eaf90b7ab1de092ae953c1fc13d94a32",
+      "length": 69575,
+      "name": "tile-9-280-177.png"
+    },
+    {
+      "asset": "",
+      "checksum": "abc136d1ef30ffb00782599be9a525eb74d9c3b76a4eb47a7faf0edc9f71b6c6",
+      "length": 44544,
+      "name": "tile-11-1121-708.png"
+    },
+    {
+      "asset": "",
+      "checksum": "dcfaac415d47bbd062618c1e287e55567e30e88f5b95cf605c275b5f54775b82",
+      "length": 68486,
+      "name": "tile-10-560-355.png"
+    },
+    {
+      "asset": "",
+      "checksum": "6a83f9d3b08f1d1f6e60f31be07874559a4dc4c07819f6985b7968cd7af53c1f",
+      "length": 26375,
+      "name": "tile-11-1127-706.png"
+    },
+    {
+      "asset": "",
+      "checksum": "3bb59a79aae27d8aa29bdc878ea898d34807d8423e3b21d7e5e6d7662049c662",
+      "length": 81509,
+      "name": "tile-10-561-352.png"
+    },
+    {
+      "asset": "",
+      "checksum": "0e11188616db7adf67c8404917481d954719171885baa7443c0c097a9ac50db3",
+      "length": 29346,
+      "name": "tile-11-1124-707.png"
+    },
+    {
+      "asset": "",
+      "checksum": "6d36d87bbe3edcb1773f2c3d566cb34360f3cf66f9b05089c7aa93248278fce5",
+      "length": 42986,
+      "name": "tile-11-1120-704.png"
+    },
+    {
+      "asset": "",
+      "checksum": "eb9650bbcadff3fc983105844e51bdd5d55774a0e33d6bcec42eac91f54eff9d",
+      "length": 51641,
+      "name": "tile-11-1120-707.png"
+    }
+  ],
+  "checksum": "65623e2931dc2a8deee1b8ff24ab866213d33313844b0e0882f312be47c346ac",
+  "length": 4003813,
+  "name": "PKG"
+}
